@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Add these lines to .gitignore
+__pycache__/
+venv/
+.env
+.ipynb_checkpoints/
+.vscode/
